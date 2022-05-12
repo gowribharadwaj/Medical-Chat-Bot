@@ -55,4 +55,4 @@ Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 ## :suspect: Project Members
 
 - [Ravi Shankar](https://github.com/ravishankar)
-- [KN Gowri](https://github.com/kngowri)
+- [KN Gowri](https://github.com/gowribharadwaj)
